@@ -1,0 +1,18 @@
+.head{
+    display: flex;
+    gap: 50px;
+    background-color: gainsboro;
+    padding: 10px 20px 10px;
+}
+
+.head-logo{
+    padding-left: 20px;
+    color: rgb(222, 66, 45);
+    font-family: cursive;
+    align-items: center;
+}
+.head-items{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}

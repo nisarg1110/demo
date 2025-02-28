@@ -1,0 +1,19 @@
+.main-sec{
+    display: flex;
+    height: 582px;
+
+}
+.side-bar{
+    width: 20%;
+    height: 100%;
+    background-color: snow;
+}
+.main-cont
+{
+    width: 80%;
+    overflow-y: scroll;
+}
+.main-cont::-webkit-scrollbar {
+    display: none;
+
+  }

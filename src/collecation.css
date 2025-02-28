@@ -1,0 +1,13 @@
+.card img{
+    width: 18rem;
+    height: 300px;
+    margin: 0 auto;
+}
+.card-body{
+    height: 300px;
+}
+.card-text{
+    overflow: hidden;
+    height: 150px  ;
+    text-overflow: ellipsis ;
+}
